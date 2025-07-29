@@ -1,0 +1,8 @@
+# [spotify-core]
+0.0.0.0 api.spotify.com # remove from blocklist if exists
+0.0.0.0 apresolve.spotify.com
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 audio4-fa.scdn.co
+0.0.0.0 audio-fa.scdn.co
+0.0.0.0 heads-fa.scdn.co
+0.0.0.0 gew1-accesspoint-b-f6sd.scdn.co
