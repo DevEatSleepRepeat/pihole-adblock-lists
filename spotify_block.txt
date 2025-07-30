@@ -3,4 +3,3 @@
 0.0.0.0 audio2.spotify.com
 0.0.0.0 analytics.spotify.com
 0.0.0.0 log.spotify.com
-0.0.0.0 crashdump.spotify.com
