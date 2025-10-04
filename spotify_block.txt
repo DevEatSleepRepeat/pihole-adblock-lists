@@ -4,3 +4,4 @@
 0.0.0.0 log.spotify.com
 0.0.0.0 spclient.wg.spotify.com
 0.0.0.0 heads-fa.spotify.com
+0.0.0.0 netflix.com
